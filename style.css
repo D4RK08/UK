@@ -109,5 +109,5 @@ lu li:before {
 
 #current{
     background-color:  rgb(255, 110, 70);
-    border-radius: 20%;
+    border-radius: 0 0 20% 20%;
 }
