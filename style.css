@@ -36,6 +36,7 @@ navbar a:hover {
 
 /* Main content */
 main {
+    text-align: center;
     max-width: 1200px;
     margin: 30px auto;
     padding: 20px;
@@ -110,4 +111,12 @@ lu li:before {
 #current{
     background-color:  rgb(255, 110, 70);
     border-radius: 0 0 20% 20%;
+}
+
+#eng-map{
+    width: 500px;
+}
+
+#link-pages{
+    text-align: left;
 }
