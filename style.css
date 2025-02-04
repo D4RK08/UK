@@ -13,6 +13,11 @@ body {
     line-height: 1.6;
 }
 
+a{
+    
+    text-decoration: none;
+}
+
 /* Navbar */
 navbar {
     display: flex;
@@ -22,7 +27,6 @@ navbar {
 
 navbar a {
     color: white;
-    text-decoration: none;
     margin: 0 5px;
     font-size: 1.2em;
     transition: color 0.3s;
