@@ -22,7 +22,8 @@ a{
 navbar {
     display: flex;
     justify-content: center;
-    background-color: rgb(255, 60, 0);
+    background-color: rgb(50, 50, 50);
+    border-radius: 20%;
 }
 
 navbar a {
@@ -112,8 +113,8 @@ lu li:before {
 }
 
 #current{
-    background-color:  rgb(255, 110, 70);
-    border-radius: 0 0 20% 20%;
+    background-color:  rgb(128, 128, 128);
+    border-radius: 20%;
 }
 
 #eng-map{
